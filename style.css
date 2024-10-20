@@ -58,19 +58,40 @@ li{display: inline;float: left;padding: 10px;color: #005099;font-size: 25px;padd
     display: flex;
 }
 .cookie-1{
-    width:33.3%;
+    width:33.3%;background-color: hotpink;text-align: center;
 }
-.cookie-2 img{ width: 33.3%;
+.cookie-2 { width: 33.3%;background-color:lightgreen;text-align: center;
 }
-.cookie-3{width: 33.3%;
+.cookie-3{width: 33.3%;background-color: lightskyblue;text-align: center;
 
 }
 .hi{
  
-  width: 100px;
+  width: 250px;
 }
-.ki{width: 100px;padding-left: 500px;
+.ki{width: 250px;
 
 }
-.mi{width: 100px;padding-left: 900px; 
+.mi{width: 280px;
 }
+.cookies h3{
+    
+    text-decoration: underline 4px #fff;;
+    letter-spacing: 1px;
+    width: 100%;
+    text-align: center;text-underline-offset: 0.5em;
+}
+.cookies p{ color: mintcream;}
+.cookies img{
+    padding-top: 20px;
+}
+.confi h3{text-align: center;
+
+}
+.confi-img img{width:50px;height: 60px;
+
+}
+.confi-img{ width: 100%;height: 300px; display: flex;
+
+}
+
