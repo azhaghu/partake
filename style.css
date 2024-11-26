@@ -1,19 +1,9 @@
-*{padding: 0;
-margin: 0;}
-.n{width: 100%;display: flex;}
-.m{width: 50%;margin-left: 100px;}
-.k{width: 50%;}
-.j img{width: 100%; ;height:150vh;}
-.hnm{width: 100%;display: flex;}
-.klu{width: 25%;}
-.gb{width: 25%;}
-.ya{width: 25%;}
-.has{width: 25%;}
-.hnm h1{font-size:small;}
-.ya{font-size: 20px;}
-.has h3{padding: 10px;}
-.mom{margin-left: 400px;}
-.mom{font-size: 10px;}
-.pjh{width: 100%;display: flex;}
-.m{width: 50%;}
-.lk{width:50% ;}  
+*{padding: 0;margin: 0;}
+.n {width: 100%;display: flex;}
+.hnm{display: flex;width: 100%;}
+.ya{width:100%;}
+.klu{width:100% ;}
+.gb{width:100% ;}
+
+.hu{width: 100%;}
+.mn{width: 100%;}
